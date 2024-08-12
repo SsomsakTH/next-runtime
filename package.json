@@ -55,7 +55,7 @@
     "@delucis/if-env": "^1.1.2",
     "@netlify/build": "^29.17.1",
     "@netlify/eslint-config-node": "^7.0.1",
-    "@testing-library/cypress": "^9.0.0",
+    "@testing-library/cypress": "^10.0.2",
     "@types/fs-extra": "^9.0.13",
     "@types/jest": "^27.0.2",
     "@types/mocha": "^9.0.0",
@@ -64,8 +64,8 @@
     "babel-jest": "^27.2.5",
     "chance": "^1.1.8",
     "cheerio": "^1.0.0-rc.12",
-    "cpy": "^8.1.2",
-    "cypress": "^12.10.0",
+    "cpy": "^11.1.0",
+    "cypress": "^13.13.2",
     "escape-string-regexp": "^2.0.0",
     "eslint-config-next": "^12.0.0",
     "eslint-plugin-jest": "^27.2.1",
@@ -90,14 +90,14 @@
     "react-dom": "^18.2.0",
     "rimraf": "^3.0.2",
     "sass": "^1.49.0",
-    "sharp": "^0.32.0",
+    "sharp": "^0.32.6",
     "strip-ansi": "^7.1.0",
     "tmp-promise": "^3.0.2",
     "typescript": "^4.3.4",
-    "wait-on": "^7.0.1"
+    "wait-on": "^7.2.0"
   },
   "dependencies": {
-    "next": "^13.4.1"
+    "next": "^14.1.1"
   },
   "engines": {
     "node": ">=16.0.0"
